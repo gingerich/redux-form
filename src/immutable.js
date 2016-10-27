@@ -22,6 +22,7 @@ export const {
   FieldArray,
   focus,
   formValueSelector,
+  getFormSyncErrors,
   getFormValues,
   initialize,
   isDirty,
